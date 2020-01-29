@@ -1,0 +1,4 @@
+export const SUCCESS_ALL_POST = 'SUCCESS_ALL_POST';
+export const SUCCESS_ONE_POST = 'SUCCESS_ONE_POST';
+export const CLEAN_ONE_POST = 'CLEAN_ONE_POST';
+export const FAILURE_AXIOS = 'FAILURE_AXIOS';
